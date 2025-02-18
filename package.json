@@ -1,0 +1,16 @@
+{
+  "name": "ai-service",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "vercel dev",
+    "deploy": "vercel deploy"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@vercel/node": "^5.1.7",
+    "dotenv": "^16.4.7"
+  }
+}
